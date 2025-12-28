@@ -24,3 +24,13 @@
 ```bash
 git clone <repo-url>
 cd <repo-folder>
+```
+2. Install dependencies:
+```bash
+pip install PyQt5
+```
+3. Run the application:
+```bash
+python main.py
+```
+4. Login or sign up, then compress/decompress files as needed.
