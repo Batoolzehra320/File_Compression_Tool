@@ -1,0 +1,23 @@
+username,file_name,operation,date_time,output_path,original_size,compressed_size,compression_ratio
+pac123,code upgrade.txt,Compress,2025-11-12 19:36:55,C:/Users/usmxn/Documents/code upgrade.txt.huff,,,
+pac123,code upgrade.txt,Compress,2025-11-12 19:55:59,C:/Users/usmxn/Documents/code upgrade.txt.huff,,,
+chotu,day.sh,Compression,2025-11-23 23:02:06,C:/Users/Hp/Documents/Chocolate.huff,127,262,2.0630
+chotu,Chocolate.huff,Decompression,2025-11-23 23:02:41,C:/Users/Hp/Documents/Dechocolate,127,127,1.0000
+batool,flower_gleam_&_glow.txt,Compression,2025-11-24 00:30:31,C:/Users/Hp/Documents/flower.huff,101,190,1.8812
+batool,flower.huff,Decompression,2025-11-24 00:31:32,C:/Users/Hp/Documents/glimmer,101,101,1.0000
+batool,eyes_closed.txt,Compression,2025-11-24 00:32:32,C:/Users/Hp/Documents/closed.huff,314,317,1.0096
+batool,closed.huff,Decompression,2025-11-24 00:32:58,C:/Users/Hp/Documents/eyes,314,314,1.0000
+asad,gobbledygook.txt,Compression,2025-11-24 00:41:17,C:/Users/Hp/Documents/Ambiguity.huff,11,38,3.4545
+asad,Ambiguity.huff,Decompression,2025-11-24 00:41:41,C:/Users/Hp/Documents/Clearance,11,11,1.0000
+bawg,best_case.txt,Compression,2025-11-24 11:58:19,C:/Users/Hp/Downloads/final draft/bist_case.huff,929824,15,0.0000
+bawg,worst_case.txt,Compression,2025-11-24 12:00:08,C:/Users/Hp/Downloads/final draft/wirst_case.huff,42,244,5.8095
+bawg,bist_case.huff,Decompression,2025-11-24 12:05:39,C:/Users/Hp/Downloads/final draft/bayst-case,929824,929824,1.0000
+bawg,wirst_case.huff,Decompression,2025-11-24 12:05:57,C:/Users/Hp/Downloads/final draft/wayrst_case,42,42,1.0000
+bawg,worst_case.txt,Compression,2025-11-24 12:09:30,C:/Users/Hp/Downloads/final draft/worste-case.huff,42,244,5.8095
+bawg,best_case.txt,Compression,2025-11-24 12:10:33,C:/Users/Hp/Downloads/final draft/bestie-case.huff,929824,15,0.0000
+bawg,worste-case.huff,Decompression,2025-11-24 12:11:27,C:/Users/Hp/Downloads/final draft/worsti-case,42,42,1.0000
+bawg,bestie-case.huff,Decompression,2025-11-24 12:11:59,C:/Users/Hp/Downloads/final draft/besti-case,929824,929824,1.0000
+bawg,gobbledygook.txt,Compression,2025-11-24 14:17:48,C:/Users/Hp/Documents/khdjdk.huff,11,38,3.4545
+bawg,eyes_closed.txt,Compression,2025-11-24 14:24:03,C:/Users/Hp/Downloads/final draft/is_closed.huff,395080,209493,0.5303
+bawg,soda.txt,Compression,2025-11-24 14:32:21,C:/Users/Hp/Downloads/final draft/sodap.huff,349200,190265,0.5449
+bawg,sodap.huff,Decompression,2025-11-24 14:32:47,C:/Users/Hp/Downloads/final draft/sodad,349200,349200,1.0000
